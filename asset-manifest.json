@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ialiayd.github.io/csb-b0085/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ialiayd.github.io/csb-b0085/static/js/main.6d489788.chunk.js",
+    "main.js.map": "https://ialiayd.github.io/csb-b0085/static/js/main.6d489788.chunk.js.map",
+    "runtime-main.js": "https://ialiayd.github.io/csb-b0085/static/js/runtime-main.618efa14.js",
+    "runtime-main.js.map": "https://ialiayd.github.io/csb-b0085/static/js/runtime-main.618efa14.js.map",
+    "static/js/2.489809f2.chunk.js": "https://ialiayd.github.io/csb-b0085/static/js/2.489809f2.chunk.js",
+    "static/js/2.489809f2.chunk.js.map": "https://ialiayd.github.io/csb-b0085/static/js/2.489809f2.chunk.js.map",
+    "index.html": "https://ialiayd.github.io/csb-b0085/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ialiayd.github.io/csb-b0085/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.489809f2.chunk.js.LICENSE.txt": "https://ialiayd.github.io/csb-b0085/static/js/2.489809f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.618efa14.js",
+    "static/js/2.489809f2.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6d489788.chunk.js"
+  ]
+}
